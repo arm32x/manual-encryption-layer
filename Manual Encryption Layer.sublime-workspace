@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nextTu",
+				"nextTurnTwice"
+			],
+			[
+				"fire",
+				"fireButton"
+			],
+			[
+				"next",
+				"nextTurn"
+			],
+			[
+				"getElemen",
+				"getElementsByClassName"
+			],
+			[
+				"white",
+				"white-text-color-1"
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"quer",
+				"querySelectorAll"
+			],
+			[
+				"socket",
+				"socketIO"
+			],
+			[
+				"plac",
+				"placedShip"
+			],
+			[
+				"shp-game-board",
+				"shp-game-board__tile"
+			],
+			[
+				"board",
+				"boardHeight"
+			],
+			[
+				"shp-gam",
+				"shp-game-board__tile"
+			],
+			[
+				"dragg",
+				"draggable-container--over"
+			],
+			[
+				"vali",
+				"validationResult"
+			],
+			[
+				"inpu",
+				"inputFilter"
+			],
+			[
+				"body",
+				"body-text-fonts"
+			],
+			[
+				"button",
+				"buttonOptions"
+			],
+			[
+				"multiplayer",
+				"multiplayerMode"
+			],
+			[
+				"mul",
+				"multiplayerModeSelect"
+			],
+			[
+				"multipl",
+				"multiplayerModeSelect"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.rs",
+			"settings":
+			{
+				"buffer_size": 45,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Rust Enhanced/RustEnhanced.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Automatic"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clippy"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Script"
+				],
+				[
+					"Packages/User/dotnet run.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"terminus open",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ter",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"te",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminus op",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"color sche",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pclp",
+				"Package Control: List Packages"
+			],
+			[
+				"pcakage control",
+				"Package Control: List Packages"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"picp",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"colorscheme",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"select colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"install",
+				"Install Package Control"
+			],
+			[
+				"color s",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 300.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/I/Projects/Miscellaneous/Manual Encryption Layer",
+		"/I/Projects/Miscellaneous/Manual Encryption Layer/src"
+	],
+	"file_history":
+	[
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/User/dotnet run.sublime-build",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/Tomorrow Color Schemes/Tomorrow Night - Eighties.sublime-color-scheme",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/ARM32/Applications/MultiMC/instances/Create Mod 1.14.4/.minecraft/config/netherex/nether-config.toml",
+		"/C/Users/ARM32/Applications/MultiMC/instances/Create Mod 1.14.4/.minecraft/config/simplefarming.toml",
+		"/C/Users/ARM32/Applications/MultiMC/instances/Create Mod 1.14.4/.minecraft/config/storagedrawers-common.toml",
+		"/C/Users/ARM32/Documents/My Games/SHENZHEN IO/76561198202965856/custom_puzzles/c681946054675029.lua",
+		"/I/Projects/Games/ShipShape/app/controllers/maps.js",
+		"/I/Projects/Games/ShipShape/app/res/scss/main.scss",
+		"/I/Projects/Games/ShipShape/app/views/game/new.ejs",
+		"/I/Projects/Games/ShipShape/app/res/js/async-loader.js",
+		"/I/Projects/Games/ShipShape/app/routers/maps.js",
+		"/I/Projects/Games/ShipShape/app/views/maps/index.ejs",
+		"/I/Projects/Games/ShipShape/res/images/tileset.png",
+		"/I/Projects/Games/ShipShape/app/data/maps.json",
+		"/I/Projects/Games/ShipShape/app/controllers/game.js",
+		"/I/Projects/Games/ShipShape/app/res/js/game/show.js",
+		"/I/Projects/Games/ShipShape/app/res/scss/game.scss",
+		"/I/Projects/Games/ShipShape/app/res/scss/maps.scss",
+		"/I/Projects/Games/ShipShape/app/views/header.ejs",
+		"/I/Projects/Games/ShipShape/app/views/game/show.ejs",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/Tomorrow Night Italics Color Scheme/Tomorrow-Night-Italics.tmTheme",
+		"/I/Projects/Games/ShipShape/app/res/scss/buttons.scss",
+		"/I/Projects/Games/ShipShape/app/res/js/game/new.js",
+		"/I/Projects/Games/ShipShape/app/res/js/game/join.js",
+		"/I/Projects/Games/ShipShape/app/views/game/join.ejs",
+		"/I/Projects/Games/ShipShape/app/routers/game.js",
+		"/I/Projects/Games/ShipShape/app.js",
+		"/I/Projects/Games/ShipShape/app/game.js",
+		"/I/Projects/Games/ShipShape/socket.js",
+		"/I/Projects/Games/ShipShape/app/data/maps.js",
+		"/C/Users/ARM32/Applications/MultiMC/instances/Integratio 1.12.2/.minecraft/scripts/tinkersconstruct/no_vanilla_tools.zs",
+		"/I/Projects/Games/ShipShape/app/routers/index.js",
+		"/I/Projects/Games/ShipShape/app/models/.keep",
+		"/I/Projects/Games/ShipShape/app/controllers/index.js",
+		"/I/Projects/Games/ShipShape/app/views/index/test.ejs",
+		"/I/Projects/Games/ShipShape/materialize/sass/materialize.scss",
+		"/I/Projects/Games/ShipShape/app/views/index/index.ejs",
+		"/I/Projects/Games/ShipShape/app/res/scss/_typography.scss",
+		"/I/Projects/Games/ShipShape/app/views/game/index.ejs",
+		"/C/Users/ARM32/Applications/MultiMC/instances/Integratio 1.12.2/.minecraft/config/cofh/world/04_actuallyadditions_ores.json",
+		"/C/Users/ARM32/Applications/MultiMC/instances/Integratio 1.12.2/.minecraft/config/enderio/enderio.cfg",
+		"/I/Projects/Games/ShipShape/.gitignore",
+		"/I/Projects/Games/ShipShape/server.sh",
+		"/I/Projects/Games/ShipShape/package.json",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/ARM32/Documents/testy.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 278.0
+	},
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Manual Encryption Layer.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
