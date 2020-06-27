@@ -89,18 +89,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "src/main.rs",
-			"settings":
-			{
-				"buffer_size": 45,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
-	],
 	"build_system": "Packages/Rust Enhanced/RustEnhanced.sublime-build",
 	"build_system_choices":
 	[
@@ -165,13 +153,45 @@
 			]
 		]
 	],
-	"build_varint": "Run",
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 0.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"build ",
+				"Build: Cancel"
+			],
+			[
+				"color s",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"color scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color sche",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"color schee",
+				"UI: Select Color Scheme"
+			],
+			[
+				"prv o",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
 			[
 				"terminus open",
 				"Terminus: Open Default Shell in Tab (View)"
@@ -199,14 +219,6 @@
 			[
 				"color",
 				"Color Scheme Editor: Edit current color scheme"
-			],
-			[
-				"color sche",
-				"Color Scheme Editor: Edit current color scheme"
-			],
-			[
-				"prv",
-				"PackageResourceViewer: Extract Package"
 			],
 			[
 				"pclp",
@@ -243,10 +255,6 @@
 			[
 				"install",
 				"Install Package Control"
-			],
-			[
-				"color s",
-				"UI: Select Color Scheme"
 			]
 		],
 		"width": 0.0
@@ -267,17 +275,14 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/I/Projects/Miscellaneous/Manual Encryption Layer",
-		"/I/Projects/Miscellaneous/Manual Encryption Layer/src"
-	],
 	"file_history":
 	[
+		"/I/Projects/Miscellaneous/Manual Encryption Layer/Cargo.toml",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
+		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
 		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/User/OmniSharpSublime.sublime-settings",
 		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/User/dotnet run.sublime-build",
 		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/OmniSharp/OmniSharpSublime.sublime-settings",
-		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
 		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/Tomorrow Color Schemes/Tomorrow Night - Eighties.sublime-color-scheme",
 		"/C/Users/ARM32/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 		"/C/Users/ARM32/Applications/MultiMC/instances/Create Mod 1.14.4/.minecraft/config/netherex/nether-config.toml",
@@ -328,7 +333,7 @@
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 66.0
 	},
 	"find_in_files":
 	{
@@ -342,6 +347,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"();\n",
+			"support.type"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -356,43 +363,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "src/main.rs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 45,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								45,
-								45
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 26.0
@@ -428,6 +398,34 @@
 	{
 		"height": 278.0
 	},
+	"output.Terminus 2":
+	{
+		"height": 138.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 138.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 138.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 138.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 138.0
+	},
+	"output.Terminus 7":
+	{
+		"height": 138.0
+	},
+	"output.Terminus 8":
+	{
+		"height": 222.0
+	},
 	"output.exec":
 	{
 		"height": 195.0
@@ -441,7 +439,6 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "Manual Encryption Layer.sublime-project",
 	"replace":
 	{
 		"height": 48.0
@@ -474,7 +471,6 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},
